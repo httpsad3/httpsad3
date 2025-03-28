@@ -1,4 +1,4 @@
-# 👋 ¡Hola Mundo! Soy Antonio
+# 👋 ¡Hola Mundo!
 
 ![Estudiante en PUCP](https://img.shields.io/badge/PUCP-Ingeniería_Informática-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
