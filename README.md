@@ -1,7 +1,6 @@
 # 👋 ¡Hola Mundo! Soy Antonio
 
 ![Estudiante en PUCP](https://img.shields.io/badge/PUCP-Ingeniería_Informática-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![JP Fundamentos de Programación](https://img.shields.io/badge/JP-Fundamentos_de_Programación-orange?style=for-the-badge)
 
 ---
 
@@ -20,7 +19,6 @@ Me apasiona construir soluciones prácticas — desde pipelines de datos en la n
 - 📊 **Business Intelligence**: Reportes y dashboards con **Power BI** (DAX, Visual Calculations), conectados a **PostgreSQL (RDS Aurora)** vía ODBC/VPN.
 - 🗄️ **Optimización de SQL**: Mejora de queries complejas sobre bases de datos PostgreSQL — reemplazando funciones recursivas por CTEs pre-calculadas, reduciendo tiempos de ejecución de horas a minutos.
 - 💻 **Desarrollo Web Full Stack**: Aplicaciones con **React**, **ASP.NET**, **Node.js** y backends en **Java y C#**. Integración con **Strapi** (headless CMS).
-- ⚙️ **Automatización de Procesos**: Flujos con **n8n** y **Power Automate** para integración empresarial.
 - 🎓 **Docencia**: Jefe de Práctica en **Fundamentos de Programación** en PUCP.
 
 ---
@@ -72,10 +70,6 @@ Me apasiona construir soluciones prácticas — desde pipelines de datos en la n
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS SAM](https://img.shields.io/badge/AWS%20SAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### ⚙️ Automatización
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 
 ---
 
